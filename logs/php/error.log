@@ -1,0 +1,44 @@
+[15-Feb-2020 07:16:44 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php on line 162
+[15-Feb-2020 07:16:44 UTC] PHP Stack trace:
+[15-Feb-2020 07:16:44 UTC] PHP   1. {main}() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:0
+[15-Feb-2020 07:16:44 UTC] PHP   2. do_action_ref_array() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:138
+[15-Feb-2020 07:16:44 UTC] PHP   3. WP_Hook->do_action() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/plugin.php:544
+[15-Feb-2020 07:16:44 UTC] PHP   4. WP_Hook->apply_filters() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:312
+[15-Feb-2020 07:16:44 UTC] PHP   5. wp_version_check() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:288
+[15-Feb-2020 07:16:44 UTC] PHP   6. trigger_error() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php:162
+[15-Feb-2020 07:17:04 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php on line 388
+[15-Feb-2020 07:17:04 UTC] PHP Stack trace:
+[15-Feb-2020 07:17:04 UTC] PHP   1. {main}() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:0
+[15-Feb-2020 07:17:04 UTC] PHP   2. do_action_ref_array() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:138
+[15-Feb-2020 07:17:04 UTC] PHP   3. WP_Hook->do_action() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/plugin.php:544
+[15-Feb-2020 07:17:04 UTC] PHP   4. WP_Hook->apply_filters() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:312
+[15-Feb-2020 07:17:04 UTC] PHP   5. wp_update_plugins() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:288
+[15-Feb-2020 07:17:04 UTC] PHP   6. trigger_error() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php:388
+[02-Mar-2020 19:46:26 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /Users/nahid/Local Sites/amazing-collage/app/public/wp-content/themes/university-theme/index.php on line 3
+[02-Mar-2020 19:46:43 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /Users/nahid/Local Sites/amazing-collage/app/public/wp-content/themes/university-theme/index.php on line 3
+[02-Mar-2020 19:46:46 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /Users/nahid/Local Sites/amazing-collage/app/public/wp-content/themes/university-theme/index.php on line 3
+[02-Mar-2020 23:35:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/nahid/Local Sites/amazing-collage/app/public/wp-content/themes/university-theme/page.php on line 66
+[03-Mar-2020 08:11:27 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php on line 162
+[03-Mar-2020 08:11:27 UTC] PHP Stack trace:
+[03-Mar-2020 08:11:27 UTC] PHP   1. {main}() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:0
+[03-Mar-2020 08:11:27 UTC] PHP   2. do_action_ref_array() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:138
+[03-Mar-2020 08:11:27 UTC] PHP   3. WP_Hook->do_action() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/plugin.php:544
+[03-Mar-2020 08:11:27 UTC] PHP   4. WP_Hook->apply_filters() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:312
+[03-Mar-2020 08:11:27 UTC] PHP   5. wp_version_check() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:288
+[03-Mar-2020 08:11:27 UTC] PHP   6. trigger_error() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php:162
+[03-Mar-2020 08:11:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php on line 388
+[03-Mar-2020 08:11:49 UTC] PHP Stack trace:
+[03-Mar-2020 08:11:49 UTC] PHP   1. {main}() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:0
+[03-Mar-2020 08:11:49 UTC] PHP   2. do_action_ref_array() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:138
+[03-Mar-2020 08:11:49 UTC] PHP   3. WP_Hook->do_action() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/plugin.php:544
+[03-Mar-2020 08:11:49 UTC] PHP   4. WP_Hook->apply_filters() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:312
+[03-Mar-2020 08:11:49 UTC] PHP   5. wp_update_plugins() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:288
+[03-Mar-2020 08:11:49 UTC] PHP   6. trigger_error() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php:388
+[03-Mar-2020 08:12:10 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php on line 577
+[03-Mar-2020 08:12:10 UTC] PHP Stack trace:
+[03-Mar-2020 08:12:10 UTC] PHP   1. {main}() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:0
+[03-Mar-2020 08:12:10 UTC] PHP   2. do_action_ref_array() /Users/nahid/Local Sites/amazing-collage/app/public/wp-cron.php:138
+[03-Mar-2020 08:12:10 UTC] PHP   3. WP_Hook->do_action() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/plugin.php:544
+[03-Mar-2020 08:12:10 UTC] PHP   4. WP_Hook->apply_filters() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:312
+[03-Mar-2020 08:12:10 UTC] PHP   5. wp_update_themes() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/class-wp-hook.php:288
+[03-Mar-2020 08:12:10 UTC] PHP   6. trigger_error() /Users/nahid/Local Sites/amazing-collage/app/public/wp-includes/update.php:577
